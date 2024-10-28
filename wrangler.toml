@@ -1,4 +1,4 @@
-name = "站点状态"
+name = "cf-workers-status-page"
 workers_dev = true
 account_id = ""
 type = "webpack"
