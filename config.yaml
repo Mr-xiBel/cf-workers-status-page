@@ -55,7 +55,7 @@ monitors:
     linkable: true
 
   - id: tc-ysou-cc
-    name: xibel.us.kg
+    name: tc.ysou.cc
     description: 'Built for anything connected to the Internet.'
     url: 'https://tc.ysou.cc'
     method: GET
