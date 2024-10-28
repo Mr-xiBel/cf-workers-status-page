@@ -1,9 +1,9 @@
-name = "cf-workers-status-page"
+name = "站点状态"
 workers_dev = true
 account_id = ""
 type = "webpack"
 webpack_config = "node_modules/flareact/webpack"
-compatibility_date = "2021-07-23"
+compatibility_date = "2024-10-28"
 
 [triggers]
 crons = ["*/2 * * * *"]
